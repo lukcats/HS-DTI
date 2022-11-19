@@ -5,7 +5,7 @@
 
 
 
-<img src="D:\Users\Desktop\HS-DTI\visal\model.png" style="zoom:75%;" />
+<img src="\HS-DTI\visal\model.png" style="zoom:75%;" />
 
 - The code was built based on [graghDTA](https://github.com/thinng/GraphDTA), [DeepDTA](https://github.com/hkmztrk/DeepDTA) and [Hierarchical Graph Representation Learning](https://github.com/murphyyhuang/gnn_hierarchical_pooling). Thanks a lot for their code sharing!
 
