@@ -5,7 +5,7 @@
 
 
 
-<img src="https://github.com/lukcats/HS-DTI/tree/main/visal/model.png" />
+![HS-DTI](visal/model.png)
 
 - The code was built based on [graghDTA](https://github.com/thinng/GraphDTA), [DeepDTA](https://github.com/hkmztrk/DeepDTA) and [Hierarchical Graph Representation Learning](https://github.com/murphyyhuang/gnn_hierarchical_pooling). Thanks a lot for their code sharing!
 
