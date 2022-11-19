@@ -1,0 +1,10 @@
+device: 'cuda:0'
+cuda_visible_devices: '0'
+max_num_nodes: 100
+channel_list: [78, 30, 30, 30, 30]
+node_list: [78, 10, 10]
+batch_size: 256
+epoch: 1000
+timestamp: 1567969359
+learning_rate: 0.001
+grad_clip: 2
