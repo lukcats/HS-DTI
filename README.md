@@ -7,7 +7,7 @@
 
 ![HS-DTI](visal/model.png)
 
-- The code was built based on [graghDTA](https://github.com/thinng/GraphDTA), [DeepDTA](https://github.com/hkmztrk/DeepDTA) and [Hierarchical Graph Representation Learning](https://github.com/murphyyhuang/gnn_hierarchical_pooling). Thanks a lot for their code sharing!
+- The code was built based on [CPI_CNN_GNN](https://github.com/masashitsubaki), [graghDTA](https://github.com/thinng/GraphDTA), [DeepDTA](https://github.com/hkmztrk/DeepDTA) and [Hierarchical Graph Representation Learning](https://github.com/murphyyhuang/gnn_hierarchical_pooling). Thanks a lot for their code sharing!
 
 ### Dataset
 
